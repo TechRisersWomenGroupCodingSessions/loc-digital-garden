@@ -8,6 +8,10 @@
     "preview": "nuxt preview",
     "lint": "eslint . --ext .ts"
   },
+  "engines" : { 
+    "npm" : ">=7.0.0",
+    "node" : ">=16.0.0"
+  },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.27.1",
     "@typescript-eslint/parser": "^5.27.1",

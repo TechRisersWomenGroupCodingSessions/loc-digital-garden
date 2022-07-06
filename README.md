@@ -4,6 +4,8 @@ Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
 ## Setup
 
+Ensure you have the minimum versions of npm and node as specified in the [package.json](./package.json) `engines` section. 
+
 Make sure to install the dependencies:
 
 ```bash
