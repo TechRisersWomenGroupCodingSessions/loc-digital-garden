@@ -1,5 +1,5 @@
 <script>
-import Seed from "~/Seed.vue";
+import Seed from "~/src/components/Seed.vue";
 export default {
   components: { Seed },
 };
