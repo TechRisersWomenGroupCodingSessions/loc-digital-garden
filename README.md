@@ -42,3 +42,15 @@ npm run preview
 ```
 
 Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
+
+
+## Tests
+
+`npm run test`
+Run all the tests in the suite.
+
+`npm run test:ui` and open this url in the browser `http://localhost:51204/__vitest__/`
+This provides a visual indication of the test run and may be helpful for debugging, more information [here](https://vitest.dev/guide/ui.html).
+
+`npx vitest name-of-test`
+To run a single test in isolate, you can target them using [Vitest in this way](https://vitest.dev/guide/filtering.html#cli)
