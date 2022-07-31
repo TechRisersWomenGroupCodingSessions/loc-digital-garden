@@ -21,3 +21,8 @@ Investigated using Jest with Vue3 testing but the configuration alone seems incr
 ## Package.json
 Had to do this strange 
 https://github.com/nuxt/framework/issues/2919
+
+
+## Useful learning resources on setting up Nuxt 
+
+https://www.youtube.com/watch?v=WyiOVGLyrfI

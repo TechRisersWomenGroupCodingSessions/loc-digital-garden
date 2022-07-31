@@ -1,5 +1,5 @@
 <script>
-import Metadata from "~/src/components/Metadata.vue";
+import Metadata from "~/components/Metadata.vue";
 
 export default {
   props: {
