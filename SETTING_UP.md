@@ -26,3 +26,7 @@ https://github.com/nuxt/framework/issues/2919
 ## Useful learning resources on setting up Nuxt 
 
 https://www.youtube.com/watch?v=WyiOVGLyrfI
+
+## Debugging test setup
+
+https://github.com/nuxt/framework/issues/3252
