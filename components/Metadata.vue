@@ -1,5 +1,6 @@
 <script>
 export default {
+  name: "Metadata",
   props: {
     planted: {
       type: Number,
@@ -11,10 +12,10 @@ export default {
     },
   },
   data() {
-      return {
-          plantedAsDays: this.planted,
-          tendedAsDays: this.tended,
-      }
+    return {
+      plantedAsDays: this.planted,
+      tendedAsDays: this.tended,
+    };
   },
 };
 </script>
