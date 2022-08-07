@@ -1,7 +1,7 @@
-import { exampleSeed } from "../lib/seed"
+import { exampleSeed } from "../lib/seed";
 
-export default defineEventHandler((event) => {
-    return {
-        seed: exampleSeed
-    }
+export default defineEventHandler(() => {
+  return {
+    seed: exampleSeed,
+  };
 });

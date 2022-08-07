@@ -1,5 +1,5 @@
-import { defineConfig } from 'vitest/config'
-import vue from '@vitejs/plugin-vue'
+import { defineConfig } from "vitest/config";
+import vue from "@vitejs/plugin-vue";
 
 // info here on how to configure vitest: https://vitest.dev/config/
 export default defineConfig({
@@ -10,4 +10,4 @@ export default defineConfig({
     },
     environment: "jsdom",
   },
-})
+});

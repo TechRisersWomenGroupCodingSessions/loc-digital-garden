@@ -19,11 +19,11 @@ Decided to trial out the test tools provided by Nuxtjs community, as previous ex
 Investigated using Jest with Vue3 testing but the configuration alone seems incredibly complex, see more [here](https://test-utils.vuejs.org/installation/) and in the demo repo [here](https://github.com/lmiller1990/vtu-next-demo).
 
 ## Package.json
-Had to do this strange 
+
+Had to do this strange
 https://github.com/nuxt/framework/issues/2919
 
-
-## Useful learning resources on setting up Nuxt 
+## Useful learning resources on setting up Nuxt
 
 https://www.youtube.com/watch?v=WyiOVGLyrfI
 

@@ -1,5 +1,5 @@
 <script>
-import Metadata from "./Metadata.vue";
+import EntryMetadata from "./Metadata.vue";
 
 export default {
   name: "Seed",
@@ -21,7 +21,7 @@ export default {
       required: true,
     },
   },
-  components: { Metadata },
+  components: { EntryMetadata },
   data() {
     return {
       presentedTitle: this.title,
@@ -33,7 +33,7 @@ export default {
 
 <template>
   <div>
-    <Metadata :planted="planted" :tended="tended" />
+    <EntryMetadata :planted="planted" :tended="tended" />
     <h2>{{ presentedTitle }}</h2>
     <p>{{ presentedContent }}</p>
   </div>

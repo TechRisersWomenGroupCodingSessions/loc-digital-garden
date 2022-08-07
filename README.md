@@ -4,7 +4,7 @@ Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
 ## Setup
 
-Ensure you have the minimum versions of npm and node as specified in the [package.json](./package.json) `engines` section. 
+Ensure you have the minimum versions of npm and node as specified in the [package.json](./package.json) `engines` section.
 
 Make sure to install the dependencies:
 
@@ -43,7 +43,6 @@ npm run preview
 
 Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
 
-
 ## Tests
 
 `npm run test`
@@ -57,6 +56,6 @@ To run a single test in isolate, you can target them using [Vitest in this way](
 
 ### Test structure
 
-All tests can be found in [test](/test) directory. The folder structure follows the same structure of the src files. 
+All tests can be found in [test](/test) directory. The folder structure follows the same structure of the src files.
 
 More insight on decisions made in approach to tests can be found in [Setting Up](/SETTING_UP.md).

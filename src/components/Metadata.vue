@@ -1,6 +1,6 @@
 <script>
 export default {
-  name: "Metadata",
+  name: "EntryMetadata",
   props: {
     planted: {
       type: Number,
