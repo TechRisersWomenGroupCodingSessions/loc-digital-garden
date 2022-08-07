@@ -1,7 +1,6 @@
 import { describe, it, expect, beforeEach } from 'vitest'
 import { shallowMount, mount } from '@vue/test-utils' 
-import Seed from "./Seed.vue"
-import Metadata from "./Metadata.vue"
+import Seed from "../../src/components/Seed.vue"
 
 describe('Seed', () => {
     let wrapper;

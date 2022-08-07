@@ -1,6 +1,6 @@
 import { describe, it, expect, beforeEach } from 'vitest'
 import { shallowMount } from '@vue/test-utils' 
-import Metadata from "./Metadata.vue"
+import Metadata from "../../src/components/Metadata.vue"
 
 describe('Metadata', () => {
     let wrapper;
