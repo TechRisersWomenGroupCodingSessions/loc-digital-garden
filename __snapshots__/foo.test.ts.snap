@@ -1,7 +1,0 @@
-// Vitest Snapshot v1
-
-exports[`Foo > snapshot 1`] = `
-{
-  "foo": "bar",
-}
-`;
