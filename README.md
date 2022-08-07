@@ -1,25 +1,28 @@
-# Nuxt 3 Minimal Starter
+# Ladies of Code Digitial Garden
+- [Ladies of Code Digitial Garden](#ladies-of-code-digitial-garden)
+  - [About](#about)
+  - [Setup](#setup)
+  - [Run locally](#run-locally)
+  - [See how the site looks in production](#see-how-the-site-looks-in-production)
+  - [Tests](#tests)
+    - [Test structure](#test-structure)
+  - [Linting and formatting](#linting-and-formatting)
 
-Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+## About
+
+This project is set up using [nuxt 3](https://v3.nuxtjs.org). Find out more about the ambitions for this project [here](https://ladiesofcodegroupsessions.github.io/).
 
 ## Setup
 
-Ensure you have the minimum versions of npm and node as specified in the [package.json](./package.json) `engines` section.
-
-Make sure to install the dependencies:
+1. Ensure you have the minimum versions of npm and node as specified in the [package.json](./package.json) `engines` section.
+2. Make sure to install the dependencies:
 
 ```bash
-# yarn
-yarn install
-
 # npm
 npm install
-
-# pnpm
-pnpm install --shamefully-hoist
 ```
 
-## Development Server
+## Run locally
 
 Start the development server on http://localhost:3000
 
@@ -27,7 +30,7 @@ Start the development server on http://localhost:3000
 npm run dev
 ```
 
-## Production
+## See how the site looks in production
 
 Build the application for production:
 
