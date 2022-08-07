@@ -59,3 +59,12 @@ To run a single test in isolate, you can target them using [Vitest in this way](
 All tests can be found in [test](/test) directory. The folder structure follows the same structure of the src files.
 
 More insight on decisions made in approach to tests can be found in [Setting Up](/SETTING_UP.md).
+
+## Linting and formatting
+
+Checkout the `scripts` section of the [package.json](package.json) file to see the commands which can be run.
+
+Typical developer flow after making local changes would be:
+`npm run format && lint`
+
+If there are linting errors which can't be automatically fixed, it's possible to see which lint it fails on specifically using `npm run lint:eslint` or `npm run lint:prettier`.
