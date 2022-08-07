@@ -1,7 +1,8 @@
 <script>
-import Metadata from "~/components/Metadata.vue";
+import Metadata from "./Metadata.vue";
 
 export default {
+  name: "Seed",
   props: {
     planted: {
       type: Number,

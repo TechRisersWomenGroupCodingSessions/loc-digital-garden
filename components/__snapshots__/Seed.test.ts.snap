@@ -1,0 +1,12 @@
+// Vitest Snapshot v1
+
+exports[`Seed > renders as expected 1`] = `
+"<div>
+  <div>
+    <p>Planted: 2 days ago</p>
+    <p>Last tended: 14 days ago</p>
+  </div>
+  <h2>Some great content</h2>
+  <p>Some incredible content</p>
+</div>"
+`;
