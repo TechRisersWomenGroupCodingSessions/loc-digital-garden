@@ -16,8 +16,7 @@ describe('Metadata', () => {
         expect(wrapper.html()).toMatchSnapshot();
     });
 
-    it.skip('contains expected content', () => {
-        expect(wrapper.text()).toContain("Planted 2 days ago");
-        expect(wrapper.text()).toContain("Tended 2 days ago");
+    it('contains expected content', () => {
+        expect(wrapper.text()).toContain("Planted: 2 days agoLast tended: 14 days ago");
     });
 });
