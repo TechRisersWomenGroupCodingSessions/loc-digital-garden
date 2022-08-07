@@ -54,3 +54,10 @@ This provides a visual indication of the test run and may be helpful for debuggi
 
 `npx vitest name-of-test`
 To run a single test in isolate, you can target them using [Vitest in this way](https://vitest.dev/guide/filtering.html#cli)
+
+### Test structure
+
+1. Front end component vue tests are next to the relevant component in the [components](/components/) folder
+2. Back end tests are in the [test](/test) folder. Test location correspond to the src file location.
+
+More insight on decisions made in approach to tests can be found in [Setting Up](/SETTING_UP.md).
