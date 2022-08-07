@@ -1,4 +1,5 @@
 # Ladies of Code Digitial Garden
+
 - [Ladies of Code Digitial Garden](#ladies-of-code-digitial-garden)
   - [About](#about)
   - [Setup](#setup)
@@ -48,13 +49,24 @@ Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/prese
 
 ## Tests
 
-`npm run test`
+```bash
+npm run test
+```
+
 Run all the tests in the suite.
 
-`npm run test:ui` and open this url in the browser `http://localhost:51204/__vitest__/`
+```bash
+npm run test:ui
+```
+
+and open this url in the browser `http://localhost:51204/__vitest__/`.
+
 This provides a visual indication of the test run and may be helpful for debugging, more information [here](https://vitest.dev/guide/ui.html).
 
-`npx vitest name-of-test`
+```bash
+npx vitest name-of-test
+```
+
 To run a single test in isolate, you can target them using [Vitest in this way](https://vitest.dev/guide/filtering.html#cli)
 
 ### Test structure
@@ -68,6 +80,17 @@ More insight on decisions made in approach to tests can be found in [Setting Up]
 Checkout the `scripts` section of the [package.json](package.json) file to see the commands which can be run.
 
 Typical developer flow after making local changes would be:
-`npm run format && lint`
 
-If there are linting errors which can't be automatically fixed, it's possible to see which lint it fails on specifically using `npm run lint:eslint` or `npm run lint:prettier`.
+```bash
+npm run format && lint
+```
+
+If there are linting errors which can't be automatically fixed, it's possible to see which lint it fails on specifically using
+
+```bash
+npm run lint:eslint
+```
+
+```bash
+npm run lint:prettier
+```
