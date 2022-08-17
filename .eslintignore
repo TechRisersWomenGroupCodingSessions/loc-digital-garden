@@ -3,3 +3,4 @@ dist
 .vscode*
 .nuxt*
 .eslintrc.cjs
+*.github
