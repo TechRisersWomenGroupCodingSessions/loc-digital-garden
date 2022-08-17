@@ -35,6 +35,9 @@
     "vitest": "^0.19.1"
   },
   "dependencies": {
+    "@nuxt/types": "^2.15.8",
+    "@types/jest": "^28.1.7",
+    "@types/node": "^18.7.6",
     "date-fns": "^2.28.0",
     "jsdom": "^20.0.0",
     "npm-run-all": "^4.1.5",
