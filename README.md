@@ -11,7 +11,10 @@
 
 ## About
 
-This project is set up using [nuxt 3](https://v3.nuxtjs.org). Find out more about the ambitions for this project [here](https://ladiesofcodegroupsessions.github.io/).
+This project is set up using [nuxt 3](https://v3.nuxtjs.org).
+
+A ‘digital garden’ is a catalogue of exploratory ideas which will be refined and grow overtime. We're building one for the LoC community to share things we learn.
+Find out more about the ambitions for this project [here](https://ladiesofcodegroupsessions.github.io/).
 
 ## Setup
 
