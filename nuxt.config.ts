@@ -11,5 +11,5 @@ export default defineNuxtConfig({
     ],
   },
   srcDir: "./src",
-  modules: ["@nuxt/content"]
+  modules: ["@nuxt/content"],
 });
