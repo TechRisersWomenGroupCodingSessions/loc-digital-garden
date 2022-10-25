@@ -1,8 +1,0 @@
-// Vitest Snapshot v1
-
-exports[`Metadata > renders as expected 1`] = `
-"<div>
-  <p>Planted: 2 days ago</p>
-  <p>Last tended: 14 days ago</p>
-</div>"
-`;
