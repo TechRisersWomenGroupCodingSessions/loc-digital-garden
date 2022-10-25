@@ -6,7 +6,7 @@ _Explain what this PR does_
 
 - [ ] Commit message
 - [ ] Tests written
-- [ ] For front end changes have you accounted for assessibility?
+- [ ] For front end changes have you accounted for accessibility?
 - [ ] Have you considered performance?
 
 
