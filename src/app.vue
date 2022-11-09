@@ -3,7 +3,7 @@
     <h1>LoC Digital Garden</h1>
     <p>An aggregated list of technical learning from the community</p>
     <br />
-    <div data-testid="slot-content">
+    <div>
       <slot>
         <NuxtPage />
       </slot>
