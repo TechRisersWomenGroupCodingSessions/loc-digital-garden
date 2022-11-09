@@ -1,14 +1,13 @@
 import { describe, it, expect } from "vitest";
-import { shallowMount } from "@vue/test-utils";
+import { render } from "@testing-library/vue";
 import App from "../src/app.vue";
 
 describe("app", () => {
   it("renders as expected", () => {
-    const wrapper = shallowMount(App, {
-      slots: { default: `<p>My first blog post</p>` }
+    // eslint-disable-next-line @typescript-eslint/unbound-method
+    const { getByText } = render(App, {
+      slots: { default: `<p>My first blog post</p>` },
     });
-    expect(wrapper.find('[data-testid="slot-content"]').text()).toBe(
-      "My first blog post"
-    );
+    expect(getByText("My first blog post")).toBeTruthy();
   });
 });
