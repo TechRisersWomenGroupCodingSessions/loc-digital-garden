@@ -1,9 +1,0 @@
-dist
-vitest.config.ts
-vue-shim.d.ts
-node_modules
-.vscode*
-.nuxt*
-.eslintrc.json
-.github*
-nuxt.tsconfig.json

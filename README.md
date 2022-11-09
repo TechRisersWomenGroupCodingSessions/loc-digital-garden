@@ -84,13 +84,3 @@ Typical developer flow after making local changes would be:
 ```bash
 npm run format && lint
 ```
-
-If there are linting errors which can't be automatically fixed, it's possible to see which lint it fails on specifically using
-
-```bash
-npm run lint:eslint
-```
-
-```bash
-npm run lint:prettier
-```

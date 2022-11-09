@@ -19,7 +19,7 @@
       "@/*": ["./src/*"]
     },
     "skipLibCheck": true,
-    "types": ["@nuxt/types", "@types/node", "@types/jest", "jest"]
+    "types": ["@nuxt/types", "@types/node"]
   },
   "exclude": ["node_modules", ".nuxt", "dist"]
 }
