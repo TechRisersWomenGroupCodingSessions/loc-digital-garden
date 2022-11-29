@@ -1,0 +1,13 @@
+{
+  "linter": {
+    "enabled": true,
+    "rules": {
+      "recommended": true
+    },
+    "ignore": ["src/app.test.ts"]
+  },
+  "formatter": {
+    "enabled": true,
+    "ignore": ["src/app.test.ts"]
+  }
+}
