@@ -9,6 +9,6 @@ describe("My test", async () => {
     const html = await $fetch("/");
     const elements = load(html);
     const titles = elements("h1").text();
-    expect(titles).toBe("LoC Digital GardenTemplate for our Garden");
+    expect(titles).toBe("LoC Digital Garden");
   });
 });
