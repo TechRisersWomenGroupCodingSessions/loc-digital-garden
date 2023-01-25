@@ -6,4 +6,4 @@ updated_at: 2022-11-30
 author: "Boaty McBoatface"
 ---
 
-#
+Example entry content
