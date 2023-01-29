@@ -1,6 +1,5 @@
 ---
-title: 'test'
+title: 'Posts'
 ---
-some more content
 
 [/template](/template)
