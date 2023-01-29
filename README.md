@@ -2,6 +2,7 @@
 
 - [Ladies of Code Digitial Garden](#ladies-of-code-digitial-garden)
   - [About](#about)
+  - [Adding a post to the Digital Garden](#adding-a-post-to-the-digital-garden)
   - [Setup](#setup)
   - [Run locally](#run-locally)
   - [See how the site looks in production](#see-how-the-site-looks-in-production)
@@ -13,6 +14,9 @@
 
 This project is set up using [nuxt 3](https://v3.nuxtjs.org). Find out more about the ambitions for this project [here](https://ladiesofcodegroupsessions.github.io/).
 
+## Adding a post to the Digital Garden
+
+If you'd like to add a post to the Digital Garden, please follow the instructions in the [CONTRIBUTORS](CONTRIBUTORS.md) file.
 ## Setup
 
 1. Ensure you have the minimum versions of npm and node as specified in the [package.json](./package.json) `engines` section.
