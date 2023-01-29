@@ -14,6 +14,8 @@
 
 This project is set up using [nuxt 3](https://v3.nuxtjs.org). Find out more about the ambitions for this project [here](https://ladiesofcodegroupsessions.github.io/).
 
+You can see the site [here](https://ladies-of-code-digital-garden.netlify.app/)
+
 ## Adding a post to the Digital Garden
 
 If you'd like to add a post to the Digital Garden, please follow the instructions in the [CONTRIBUTORS](CONTRIBUTORS.md) file.

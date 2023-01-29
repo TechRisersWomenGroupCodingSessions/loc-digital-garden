@@ -8,4 +8,4 @@
 6. If you'd like to check how the post would look, you can follow the instructions in the [README](README.md) to run the app locally.
 7. Open the PR to be reviewed.
 8. Once the PR has been reviewed and approved, merge the PR.
-9. The content should appear on the site.
+9. The content should appear on the site [here](https://ladies-of-code-digital-garden.netlify.app/) after merging.
