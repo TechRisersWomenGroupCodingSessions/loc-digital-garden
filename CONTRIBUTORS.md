@@ -6,6 +6,6 @@
 4. Add your file name to index file [index.md](src/content/index.md), following the example of the template entry
 5. Commit and push your changes to the feature branch.
 6. If you'd like to check how the post would look, you can follow the instructions in the [README](README.md) to run the app locally.
-7. Open the PR to be reviewed.
+7. Open the PR to be reviewed. [Here's an example of a PR adding a new post in case helpful](https://github.com/LadiesOfCodeGroupSessions/loc-digital-garden/pull/26).
 8. Once the PR has been reviewed and approved, merge the PR.
 9. The content should appear on the site [here](https://ladies-of-code-digital-garden.netlify.app/) after merging.
