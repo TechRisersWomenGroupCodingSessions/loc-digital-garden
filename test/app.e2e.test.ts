@@ -19,6 +19,6 @@ describe("My test", async () => {
     const paragraphs = elements("p").text();
 
     expect(titles).toBe("Title of the page");
-    expect(paragraphs).toContain("Author: Boaty McBoatfaceCreated: 2022-11-30T00:00:00.000ZLast updated: 2022-11-30T00:00:00.000ZExample entry content");
+    expect(paragraphs).toContain("Author: Boaty McBoatface Created: 30/11/2022 Last updated: 30/11/2022Example entry content");
   });
 });
