@@ -2,6 +2,7 @@
 
 - [Ladies of Code Digitial Garden](#ladies-of-code-digitial-garden)
   - [About](#about)
+  - [Becoming a technical contributor to the Digital Garden](#becoming-a-technical-contributor-to-the-digital-garden)
   - [Adding a post to the Digital Garden](#adding-a-post-to-the-digital-garden)
   - [Setup](#setup)
   - [Run locally](#run-locally)
@@ -15,6 +16,15 @@
 This project is set up using [nuxt 3](https://v3.nuxtjs.org). Find out more about the ambitions for this project [here](https://ladiesofcodegroupsessions.github.io/).
 
 You can see the site [here](https://ladies-of-code-digital-garden.netlify.app/)
+
+## Becoming a technical contributor to the Digital Garden
+We would like to improve this site technically and we very much welcome open source contributors from the LoC community. 
+Please see the existing [set of improvements identified](https://github.com/LadiesOfCodeGroupSessions/loc-digital-garden/issues).
+
+If you would be interested in contributing to these improvements, please express your interest on the issues themselves. We can
+then work together asynchronously on the issues.
+
+In this project we work with feature branches & Pull Requests. If you have some changes you'd like us to review, please do open a Pull Request. This will then be reviewed by the Codeowners.
 
 ## Adding a post to the Digital Garden
 
