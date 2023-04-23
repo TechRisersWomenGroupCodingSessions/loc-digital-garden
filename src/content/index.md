@@ -7,3 +7,5 @@ title: 'Posts'
 [/terraform-101](/terraform-101)
 
 [/data-plumbing](/data-plumbing)
+
+[/data-tips](/app-devs-data-flow-easier)
